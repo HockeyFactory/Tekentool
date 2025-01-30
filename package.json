@@ -1,0 +1,20 @@
+{
+  "name": "tekenbord",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitserver.mm:webapp/hockeyfactory.git"
+  },
+  "author": "Maximedia",
+  "license": "-",
+  "devDependencies": {
+    "less": "~1.4.2",
+    "uglify-js": "~2.4.0",
+    "jshint": "~2.1.11"
+  }
+}
